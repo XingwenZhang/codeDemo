@@ -1,0 +1,13 @@
+﻿@model LoveSharing.WebUI.Models.SendViewModel
+@{
+    ViewBag.Title = "首页";
+}
+
+<div>
+    <p>在这里分享你的一切</p>
+    @Html.EditorFor(m => m.Content)
+    <input type="submit" value="发布"/>
+</div>
+
+
+

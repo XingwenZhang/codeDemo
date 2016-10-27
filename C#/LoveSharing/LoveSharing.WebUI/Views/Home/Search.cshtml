@@ -1,0 +1,37 @@
+﻿@model IEnumerable<LoveSharing.Domain.Entities.Users>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+
+<br />
+@if (Model.Count() == 0)
+{
+    <h2>对不起，我们没有找到您要查找的人！</h2>
+}else
+{
+    <h2>我们找到了以下用户</h2>
+    <br />
+    foreach (var f in Model)
+    {
+        Int64 my_id = UserHandler.GetUserIdByEmail(User.Identity.Name.ToString());
+        <li class="search-li">
+            @Html.ActionLink(f.User_name, "Details", "Account", new { id = f.User_id }, new { @class = "float-left" })
+            @if(UserHandler.GetUserNameByEmail(User.Identity.Name) != f.User_name)
+            { 
+                if (UserHandler.IsMyFriend(my_id,f.User_id))
+                {
+                    @Html.ActionLink("取消关注", "Follow", "Account",new {flag = true,id = f.User_id, userName = f.User_name},new{ @class = "float-left"});
+                }
+                else
+                {
+                    @Html.ActionLink("加关注", "Follow", "Account", new { flag = false,id = f.User_id, userName = f.User_name}, new { @class = "float-left" });
+                }
+            }
+        </li>  
+    <br />    
+    }
+}
+
+

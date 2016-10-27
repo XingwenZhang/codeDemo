@@ -1,0 +1,164 @@
+/* Apply these styles only when #preview-pane has
+   been placed within the Jcrop widget */
+   
+.page-header{
+}
+	.page-header h1{
+		font-size:32px;
+		font-family:"楷体";
+		font-weight:bold;
+	}
+.page-section{
+	position:relative;
+}
+	.page-section .uploadbg,.page-section div.uploader{
+		position:absolute;
+	}
+	.page-section div.uploader{
+		z-index:2;
+	}
+		
+		input[type="file"].uploader{
+			position:absolute;
+			width:110px;
+			height:35px;
+			background-color:transparent;
+			color:rgba(0,0,0,0);
+			content:"" !important;
+			top:0;
+			cursor:pointer;
+		}
+		div.uploader{
+			background-image:none;
+			width:101px;
+			height:34px;
+		}
+		div.uploader span.filename{
+			display:none;
+		}
+		div.uploader span.action{
+			display:none;
+		}     
+.page-section{
+}
+	.page-section .page-section-header{
+		display:block;
+		width:100%;
+		height:60px;
+		padding:10px 0;
+	}
+ 
+		.cropping-area{
+			float:left;
+			width:400px;
+			height:400px;
+			overflow:hidden;
+			border:1px solid #7d7d7d;
+			box-shadow:-1px 1px 10px #000;
+			vertical-align:middle;
+			line-height:400px;
+			position:relative;
+			background-color:#ccc;
+		}
+			.cropping-area img{
+				max-width:400px;
+				max-height:400px;
+				width:auto;
+				height:auto;
+				position:relative;
+			}
+		.img-preview{
+			float:left;
+			width:120px;
+			height:120px;
+			padding:10px;
+			background-color:#f5f5f5;
+			border:1px solid #999;
+			margin-left:20px;
+		}
+		.img-preview:after{
+			clear:both;
+		}
+			.img-preview .compress{
+				width:100px;
+				height:100px;
+				overflow:hidden;
+				
+			}
+				.img-preview .compress img{
+					width:100px;
+					height:100px;
+				}
+			.crop-bar{
+				padding:10px 0;
+			}
+			.crop-bar button{
+				margin-right:10px;
+			}
+#clearfloat{
+	clear:both;
+}
+				
+
+ 
+.img-choose{
+	margin:10px 0;	
+	position:relative;
+}
+.img-crop-area{
+	margin-bottom:10px;
+}
+
+#img-target{
+	max-width:300px;
+	max-height:300px;
+	width:auto;
+	height:auto;
+}
+
+
+#preview-pane {
+  display: block;
+  position: absolute;
+  z-index: 2000;
+  right: -200px;
+  padding: 6px;
+  border: 1px rgba(0,0,0,.4) solid;
+  background-color: white;
+
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+
+  -webkit-box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 1024px) { 
+  #preview-pane {
+    right: 0;
+  }
+}
+
+/* The Javascript code will set the aspect ratio of the crop
+   area based on the size of the thumbnail preview,
+   specified here */
+
+#preview-pane .preview-container {
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+}
+
+  #demo7 {
+    background-color: #eee;
+    width: 500px;
+    height: 330px;
+    font-size: 24px;
+    font-weight: 300;
+    display: block;
+  }
+  
+  
+

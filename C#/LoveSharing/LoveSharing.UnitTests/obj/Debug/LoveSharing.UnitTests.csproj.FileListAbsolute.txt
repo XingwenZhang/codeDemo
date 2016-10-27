@@ -1,0 +1,103 @@
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll.config
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.pdb
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Optimization.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.dll
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.pdb
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.pdb
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+E:\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.xml
+E:\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.csprojResolveAssemblyReference.cache
+E:\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.dll
+E:\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.pdb
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll.config
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.pdb
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.pdb
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.pdb
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.dll
+C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.pdb
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll.config
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.pdb
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.pdb
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.pdb
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll.config
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.UnitTests.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Optimization.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.Domain.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\LoveSharing.WebUI.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Moq.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Ninject.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\System.Web.Mvc.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\bin\Debug\Newtonsoft.Json.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.csprojResolveAssemblyReference.cache
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.UnitTests\obj\Debug\LoveSharing.UnitTests.pdb

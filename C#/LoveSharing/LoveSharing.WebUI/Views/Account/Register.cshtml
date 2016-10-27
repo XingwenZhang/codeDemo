@@ -1,0 +1,75 @@
+﻿@model LoveSharing.WebUI.Models.RegisterModel
+@{
+    Layout = null;
+    ViewBag.Title = "Login";
+}
+   
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Register Page</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <link rel="alternate icon" type="image/png" href="~/assets/i/favicon.png">
+    <link rel="stylesheet" href="~/assets/css/amazeui.min.css" />
+    <style>
+        .header {
+            text-align: center;
+        }
+
+            .header h1 {
+                font-size: 200%;
+                color: #333;
+                margin-top: 30px;
+            }
+
+            .header p {
+                font-size: 14px;
+            }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="am-g">
+            <h1>乐分享</h1>
+            <h3>&nbsp;&nbsp;&nbsp;&nbsp;我分享，我快乐！</h3>
+        </div>
+        <hr />
+    </div>
+    <div class="am-g">
+        <div class="am-u-lg-6 am-u-md-8 am-u-sm-centered">
+            <h3>注册</h3>
+            <hr>
+            <form method="post" class="am-form">
+                <label for="userName">用户名:</label>
+                @*<input type="text" name="userName" id="userName" value="" placeholder="用户名，全局唯一">*@
+                @Html.TextBoxFor(m => m.Name)
+                <br>
+                <label for="email">邮箱:</label>
+                @*<input type="email" name="email" id="email" value="" placeholder="邮箱，全局唯一，用于登录">*@
+                @Html.TextBoxFor(m => m.Email)
+                <br>
+                <label for="password">密码:</label>
+                @*<input type="password" name="password" id="password" value="" placeholder="密码">*@
+                @Html.TextBoxFor(m => m.Password )
+                <br>
+                <label for="password">确认密码:</label>
+                @Html.TextBoxFor(m => m.ConfirmPassword)
+                @*<input type="password" name="confirmPassword" id="confirmPassword" value="" placeholder="确认密码">*@
+                <br>
+                
+                <div class="am-cf">
+                    <input type="submit" name="" value="注册" class="am-btn am-btn-primary am-btn-sm am-fl">
+                </div>
+            </form>
+            <hr>
+            <p>@Html.ActionLink("返回登录","Login")</p>
+            <p>© @DateTime.Now.Year - LoveSharing team</p>
+        </div>
+    </div>
+</body>
+</html>

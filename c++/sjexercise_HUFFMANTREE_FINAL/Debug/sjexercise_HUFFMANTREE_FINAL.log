@@ -1,0 +1,61 @@
+﻿Build started 2013/12/6 星期五 19:45:45.
+     1>Project "E:\vs编写代码\sjexercise_HUFFMANTREE_FINAL\sjexercise_HUFFMANTREE_FINAL.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\sjexercise_HUFFMANTREE_FINAL.unsuccessfulbuild".
+       ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(24): error C2143: syntax error : missing ';' before '<'
+                 e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(39) : see reference to class template instantiation 'HuffmanTree<T>' being compiled
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(24): error C2238: unexpected token(s) preceding ';'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(26): error C2143: syntax error : missing ';' before '<'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(26): error C2238: unexpected token(s) preceding ';'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(28): error C2061: syntax error : identifier 'HuffmanTreeNode'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(30): error C2143: syntax error : missing ';' before '<'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(31): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(37): error C2061: syntax error : identifier 'HuffmanTreeNode'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(68): error C2065: 'HuffmanTreeNode' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(68): error C2065: 'ht1' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(68): error C2065: 'ht2' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(68): error C2065: 'tparent' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(76): error C2182: 'MergeTree' : illegal use of type 'void'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(76): error C2470: 'HuffmanTree<T>::MergeTree' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(76): error C2072: 'HuffmanTree<T>::MergeTree' : initialization of a function
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2065: 'HuffmanTreeNode' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2065: 'pTree' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2275: 'std::string' : illegal use of this type as an expression
+                 d:\vs2012\vc\include\xstring(2300) : see declaration of 'std::string'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2146: syntax error : missing ')' before identifier 'str'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2182: 'Encode' : illegal use of type 'void'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2470: 'HuffmanTree<T>::Encode' : looks like a function definition, but there is no parameter list; skipping apparent body
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2072: 'HuffmanTree<T>::Encode' : initialization of a function
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(78): error C2059: syntax error : ')'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(112): error C2065: 'T' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(112): error C2923: 'HuffmanTree' : 'T' is not a valid template type argument for parameter 'T'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(113): error C2143: syntax error : missing ';' before '{'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\huffmantree.h(113): error C2447: '{' : missing function header (old-style formal list?)
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(9): error C2065: 'HuffmanTreeNode' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(9): error C2062: type 'char' unexpected
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(10): error C2143: syntax error : missing ';' before '{'
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(10): error C2447: '{' : missing function header (old-style formal list?)
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(34): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(41): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(43): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(44): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(49): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(51): error C2065: 'char_count' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(57): error C2065: 'HuffmanTreeNode' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(57): error C2062: type 'char' unexpected
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(61): error C2065: 'proot' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(61): error C2065: 'str' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(64): error C2065: 'ofile' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(72): error C2065: 'ofile' : undeclared identifier
+     1>e:\vs编写代码\sjexercise_huffmantree_final\main.cpp(77): error C2065: 'ofile' : undeclared identifier
+     1>Done Building Project "E:\vs编写代码\sjexercise_HUFFMANTREE_FINAL\sjexercise_HUFFMANTREE_FINAL.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.20

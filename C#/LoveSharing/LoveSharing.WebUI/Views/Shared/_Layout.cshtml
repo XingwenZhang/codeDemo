@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Site.css" type="text/css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+        <div role=navigation class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title">@Html.ActionLink("乐分享", "Index", "Home")</p>
+                    <div role="search" id="ls-top-search">
+                        <form method="get" action="~/Home/Search" id="ls-top-search-form" class="ls-top-search form-with-magnify">
+                            <input tyle="text" class="ls-top-search-input" id="userName" name="userName" autocomplete="off" placeholder="搜索人" aria-haspopup="true" />
+                            @*<input type="hidden" name="type" value="question" />*@
+                            <button type="submit" class="manify-button">搜索</button>
+                        </form>
+                    </div>                   
+                </div>
+                <div class="float-left">
+                    <ul>
+                        <li class="float-left">
+                            <a href="~/Account/PersonalInfo">个人资料</a>
+                        </li>
+                        <li class="float-left">
+                            <a href="~/Home/Index">我的主页</a>
+                        </li>
+                        <li class="float-left">
+                            <a href="~/Account/ListFriends">我的好友</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                </div>
+        </div>
+    </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix">
+            @RenderBody()
+        </section>
+    </div>
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <h2>关于乐分享平台</h2>
+                    <p class="margin-bottom-30">致力于为同学搭建一个分享知识、趣事、所见所感，总之所有一切你想要分享的东西的平台</p>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <h2>联系我们</h2>
+                    <p>地址：大连理工大学软件学院</p>
+                    <p>电话：12345678</p>
+                </div>
+                <div class="col-md-4 col-sm-4"></div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - LoveSharing Team</p>
+            </div>
+        </div>
+    </footer>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+

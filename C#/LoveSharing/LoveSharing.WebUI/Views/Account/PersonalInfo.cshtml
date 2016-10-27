@@ -1,0 +1,27 @@
+﻿@model LoveSharing.Domain.Entities.Users
+
+@{
+    //Layout = null;
+    ViewBag.Title = "PersonalInfo";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("PersonalInfo", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.EditorForModel()
+    <div class="editor-label">Image</div>
+    <div class="editor-field">
+        @if (Model.Image == null)
+        {
+            @:None
+        }
+        else
+        {
+            <img width="150" height="150"
+                 src="@Url.Action("GetImage","Account",new {Model.User_id})" />
+        }
+        <div>Upload new image: <input type="file" name="Imagedata" /></div>
+    </div>
+    <input type="submit" value="save" />
+    @Html.ActionLink("Cancel and return to list", "../Home/Index")
+}
+

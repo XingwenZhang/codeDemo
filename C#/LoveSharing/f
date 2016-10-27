@@ -1,0 +1,133 @@
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.dll b/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.dll[m
+[1mindex da0f363..bc89cad 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.dll and b/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.dll differ
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.pdb b/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.pdb[m
+[1mindex d949697..451ac6e 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.pdb and b/LoveSharing/LoveSharing.Domain/bin/Debug/LoveSharing.Domain.pdb differ
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache b/LoveSharing/LoveSharing.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache[m
+[1mindex 7de0266..5d36a34 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache and b/LoveSharing/LoveSharing.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache differ
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csproj.FileListAbsolute.txt b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csproj.FileListAbsolute.txt[m
+[1mindex c644893..c23f477 100644[m
+[1m--- a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csproj.FileListAbsolute.txt[m
+[1m+++ b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csproj.FileListAbsolute.txt[m
+[36m@@ -12,3 +12,17 @@[m [mE:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.dll[m
+ E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.xml[m
+ E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.xml[m
+ E:\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.csprojResolveAssemblyReference.cache[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll.config[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.pdb[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.csprojResolveAssemblyReference.cache[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.pdb[m
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csprojResolveAssemblyReference.cache b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csprojResolveAssemblyReference.cache[m
+[1mindex 623005b..555e248 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csprojResolveAssemblyReference.cache and b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.csprojResolveAssemblyReference.cache differ
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.dll b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.dll[m
+[1mindex da0f363..bc89cad 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.dll and b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.dll differ
+[1mdiff --git a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.pdb b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.pdb[m
+[1mindex d949697..451ac6e 100644[m
+Binary files a/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.pdb and b/LoveSharing/LoveSharing.Domain/obj/Debug/LoveSharing.Domain.pdb differ
+[1mdiff --git a/LoveSharing/LoveSharing.UnitTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache b/LoveSharing/LoveSharing.UnitTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache[m
+[1mindex 66c8652..c7d34b9 100644[m
+Binary files a/LoveSharing/LoveSharing.UnitTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache and b/LoveSharing/LoveSharing.UnitTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/Views/Home/Search.cshtml b/LoveSharing/LoveSharing.WebUI/Views/Home/Search.cshtml[m
+[1mindex 4553683..5795b03 100644[m
+[1m--- a/LoveSharing/LoveSharing.WebUI/Views/Home/Search.cshtml[m
+[1m+++ b/LoveSharing/LoveSharing.WebUI/Views/Home/Search.cshtml[m
+[36m@@ -18,7 +18,7 @@[m
+         <li>[m
+             @Html.ActionLink(f.User_name, "Details", "Account", new { id = f.User_id }, new { @class = "search" })[m
+         </li>[m
+[31m-        Int64 my_id = UserHandler.GetUserIdByEmail(User.Identity.ToString());[m
+[32m+[m[32m        Int64 my_id = UserHandler.GetUserIdByEmail(User.Identity.Name.ToString());[m
+     }[m
+ }[m
+ [m
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.dll b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.dll[m
+[1mindex da0f363..bc89cad 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.dll and b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.dll differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.pdb b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.pdb[m
+[1mindex d949697..451ac6e 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.pdb and b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.Domain.pdb differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.dll b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.dll[m
+[1mindex ac3334d..13a6313 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.dll and b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.dll differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.pdb b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.pdb[m
+[1mindex f9fc40f..a353a9c 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.pdb and b/LoveSharing/LoveSharing.WebUI/bin/LoveSharing.WebUI.pdb differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache b/LoveSharing/LoveSharing.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache[m
+[1mindex d7cd87e..f909a13 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache and b/LoveSharing/LoveSharing.WebUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csproj.FileListAbsolute.txt b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csproj.FileListAbsolute.txt[m
+[1mindex f050a3c..ce1fb83 100644[m
+[1m--- a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csproj.FileListAbsolute.txt[m
+[1m+++ b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csproj.FileListAbsolute.txt[m
+[36m@@ -78,3 +78,43 @@[m [mC:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages[m
+ C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.csprojResolveAssemblyReference.cache[m
+ C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.dll[m
+ C:\Users\Terry\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.pdb[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\LoveSharing.WebUI.dll.config[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\LoveSharing.WebUI.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\LoveSharing.WebUI.pdb[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Antlr3.Runtime.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\EntityFramework.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\EntityFramework.SqlServer.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\LoveSharing.Domain.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Microsoft.Web.Infrastructure.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Moq.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Newtonsoft.Json.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Ninject.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Net.Http.Formatting.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Http.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Http.WebHost.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Mvc.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Optimization.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Providers.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Razor.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.Deployment.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.Razor.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\WebGrease.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\LoveSharing.Domain.pdb[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\EntityFramework.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\EntityFramework.SqlServer.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Moq.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Ninject.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\Newtonsoft.Json.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Net.Http.Formatting.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Http.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Http.WebHost.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Mvc.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.Razor.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.Deployment.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\bin\System.Web.WebPages.Razor.xml[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.csprojResolveAssemblyReference.cache[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.dll[m
+[32m+[m[32mC:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.WebUI\obj\Debug\LoveSharing.WebUI.pdb[m
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csprojResolveAssemblyReference.cache b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csprojResolveAssemblyReference.cache[m
+[1mindex 0200ca7..9ee4724 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csprojResolveAssemblyReference.cache and b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.csprojResolveAssemblyReference.cache differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.dll b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.dll[m
+[1mindex ac3334d..13a6313 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.dll and b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.dll differ
+[1mdiff --git a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.pdb b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.pdb[m
+[1mindex f9fc40f..a353a9c 100644[m
+Binary files a/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.pdb and b/LoveSharing/LoveSharing.WebUI/obj/Debug/LoveSharing.WebUI.pdb differ
+[1mdiff --git a/LoveSharing/LoveSharing.v12.suo b/LoveSharing/LoveSharing.v12.suo[m
+[1mindex e739051..2d9ab9b 100644[m
+Binary files a/LoveSharing/LoveSharing.v12.suo and b/LoveSharing/LoveSharing.v12.suo differ
+warning: LF will be replaced by CRLF in LoveSharing/LoveSharing.WebUI/Views/Home/Search.cshtml.
+The file will have its original line endings in your working directory.

@@ -1,0 +1,26 @@
+﻿@model LoveSharing.WebUI.Models.FriendsListViewModel
+@{
+    ViewBag.Title = "ListFriends";
+}
+
+@if (Model.Friends.Count() == 0)
+{
+    <h2>这里空空如也，去搜索添加吧！</h2>
+}
+else
+{
+    <h2>好友列表</h2>
+    <br />
+    foreach (var f in Model.Friends)
+    {
+        <li class="search-li">
+            @Html.ActionLink(f.User_name, "Details", new { id = f.User_id }, new { @class = "float-left" })
+            @Html.ActionLink("取消关注", "CancelFollow", "Account", new { flag = true, id = f.User_id, userName = f.User_name }, new { @class = "float-left" })
+        </li>
+    <br />
+    }
+
+    <div class="pager">
+        @Html.PageLinks(Model.PagingInfo, x => Url.Action("ListFriends", new { Page = x }));
+    </div>
+}

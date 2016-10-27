@@ -1,0 +1,14 @@
+﻿@model IEnumerable<LoveSharing.Domain.Entities.Users>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+@foreach(var u in Model)
+{
+    <div class="ui-menu-item">
+        <h3>@u.User_name</h3>
+        @u.Age
+    </div>
+}

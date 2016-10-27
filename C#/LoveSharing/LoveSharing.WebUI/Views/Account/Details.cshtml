@@ -1,0 +1,58 @@
+﻿@model LoveSharing.Domain.Entities.Users
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div>
+    <ul>
+        <li>
+            <label class="preview_option">用户名:</label>
+            <div class="preview_option">@Model.User_name</div>
+            <br />
+        </li>
+        <li>
+            <label>全名:</label>
+            <div>@Model.FullName</div>
+            <br />
+        </li>
+        <li>
+            <label>邮箱:</label>
+            <div>@Model.Email</div>
+            <br />
+        </li>
+        <li>
+            <label>年龄:</label>
+            <div>@Model.Age</div>
+            <br />
+        </li>
+        <li>
+            <label>性别:</label>
+            
+                @if (Model.Sex == false)
+                {
+                    <div>男</div>
+                }
+                else
+                {
+                    <div>女</div>
+                }
+            <br />
+        </li>
+        <li>
+            <label>故乡:</label>
+            <div>@(Model.Country + Model.City + Model.Address)</div>
+            <br />
+        </li>
+        <li>
+            <label>生日:</label>
+            <div>@Model.Birthday</div>
+            <br />
+        </li>
+        <li>
+            <label>电话:</label>
+            <div>@Model.Phone</div>
+            <br />
+        </li>
+    </ul>
+</div>

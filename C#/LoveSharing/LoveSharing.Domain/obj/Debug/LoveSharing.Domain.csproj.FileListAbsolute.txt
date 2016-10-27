@@ -1,0 +1,42 @@
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.pdb
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.dll
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.dll
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.xml
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.xml
+E:\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.dll
+E:\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.pdb
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll.config
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.dll
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.xml
+E:\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll.config
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.pdb
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.xml
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.dll
+C:\Users\Terry\Source\Repos\LoveSharing\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.csprojResolveAssemblyReference.cache
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\obj\Debug\LoveSharing.Domain.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll.config
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\LoveSharing.Domain.pdb
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.dll
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\Moq.xml
+G:\最新版\LoveSharing (1)\LoveSharing\LoveSharing.Domain\bin\Debug\Ninject.xml

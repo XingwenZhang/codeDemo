@@ -1,0 +1,23 @@
+﻿Build started 2013/10/22 星期二 16:37:30.
+     1>Project "E:\vs编写代码\sjexercise_KMP_algorithm\sjexercise_KMP_algorithm.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\sjexercise_KMP_algorithm.unsuccessfulbuild".
+       ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt KMP.cpp next.cpp
+         next.cpp
+         KMP.cpp
+     1>e:\vs编写代码\sjexercise_kmp_algorithm\kmp.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\vs编写代码\sjexercise_kmp_algorithm\kmp.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs编写代码\sjexercise_KMP_algorithm\Debug\sjexercise_KMP_algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs编写代码\sjexercise_KMP_algorithm\Debug\sjexercise_KMP_algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs编写代码\sjexercise_KMP_algorithm\Debug\sjexercise_KMP_algorithm.lib" /MACHINE:X86 Debug\KMP.obj
+         Debug\next.obj
+         sjexercise_KMP_algorithm.vcxproj -> E:\vs编写代码\sjexercise_KMP_algorithm\Debug\sjexercise_KMP_algorithm.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\sjexercise_KMP_algorithm.unsuccessfulbuild".
+         Touching "Debug\sjexercise_KMP_algorithm.lastbuildstate".
+     1>Done Building Project "E:\vs编写代码\sjexercise_KMP_algorithm\sjexercise_KMP_algorithm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91
